@@ -2,7 +2,7 @@
   Challenge 05: First Node.js project
 </h1>
 
-<p>
+<p align="center">
   <img src='./assets/test-fundamentos-node.png' alt='application test image' />
 </p>
 
