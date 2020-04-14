@@ -2,7 +2,9 @@
   Challenge 05: First Node.js project
 </h1>
 
-![application test image](./assets/test-fundamentos-node.png)
+<p>
+  <img src='./assets/test-fundamentos-node.png' alt='application test image' />
+</p>
 
 Template from [Rocketseat](https://github.com/Rocketseat/bootcamp-gostack-desafios/edit/master/desafio-fundamentos-nodejs/)
 
